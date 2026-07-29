@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📈 WakaTime Activity
+
+![WakaTime](https://wakatime.com/share/@sabbirr/480aa74b-a019-41f0-bbe0-68811342eab8.svg)
+
+## ⌛ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
