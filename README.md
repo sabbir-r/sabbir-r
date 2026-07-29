@@ -42,7 +42,7 @@ Lightweight event streaming library for Node.js applications — built for simpl
 
 [View more repositories →](https://github.com/sabbir-r?tab=repositories)
 
-### 🎓 Certificates
+<!--### 🎓 Certificates
 
 <table align="center">
 <tr>
@@ -51,9 +51,7 @@ Lightweight event streaming library for Node.js applications — built for simpl
 <td align="center">☁️<br><b>Cloud / AWS</b><br><a href="#">View Certificate</a></td>
 <td align="center">📡<br><b>Event-Driven Systems</b><br><a href="#">View Certificate</a></td>
 </tr>
-</table>
-
-<sub align="center">Replace the `#` links above with your certificate URLs (e.g. Coursera, credly, or a PDF in this repo).</sub>
+</table> -->
 
 ---
 
