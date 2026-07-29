@@ -1,26 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Md Sabbir
 
-<!--
-**sabbir-r/sabbir-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Engineer;Backend+%26+Distributed+Systems+Builder;Team+Lead+%7C+SaaS+Developer;Building+Scalable+Products+with+Code" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🚀 About Me
 
-## 📈 WakaTime Activity
+I'm a **self-taught software engineer** focused on building scalable backend systems, SaaS products, and real-world solutions.
 
-![WakaTime](https://wakatime.com/share/@sabbirr/480aa74b-a019-41f0-bbe0-68811342eab8.svg)
+Currently working as a **Backend Developer & Team Lead**, where I design architectures, solve complex engineering problems, and help teams deliver reliable software.
 
-## ⌛ Weekly Coding Stats
+I enjoy working on:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- ⚡ Distributed systems & event-driven architecture
+- 🏗️ Backend engineering & scalable APIs
+- ☁️ Cloud infrastructure & automation
+- 📊 SaaS products and business-focused software
+- 🤖 AI-powered developer/productivity tools
+
+My philosophy:
+
+> "Build things that solve real problems. Keep learning. Keep shipping."
+
+---
+
+# 🧠 Engineering Focus
