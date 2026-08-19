@@ -27,7 +27,7 @@
 <tr>
 <td width="100%" valign="top">
 
-**[node-event-streaming](https://github.com/sabbir-r/node-event-streaming)** `Public` · `npm package`
+**[node-event-streaming](https://github.com/sabbir-r/event-streaming)** `Public` · `npm package`
 
 Lightweight event streaming library for Node.js applications — built for simple, dependency-light pub/sub between services.
 
